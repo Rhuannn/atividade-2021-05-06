@@ -1,1 +1,1 @@
-# atividade-2021-05-06
+O repositorio é para fins de estudos das ferramentas git e github na disciplina
